@@ -1,16 +1,66 @@
 ## Hi there 👋
 
-<!--
-**nmissi-nadia/nmissi-nadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Salut, je suis Nadia Dupont ! 👋
 
-Here are some ideas to get you started:
+Bienvenue sur mon profil GitHub ! Je suis une **Développeuse Full-Stack en formation chez YouCode**, toujours en quête de nouvelles idées créatives pour concevoir des applications web et mobiles intuitives. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🌟 À propos de moi
+- 🎓 **Étudiante chez YouCode** | Spécialisée en Développement Full-Stack
+- 🧑‍💻 Expérimentée en **HTML**, **CSS**,**C**,**C++**, **JavaScript** et **PHP**
+- 💡 Passionnée par la **modélisation UML**, **Tailwind CSS** et l'**intégration d'API**
+- 🎯 **Objectif** : Devenir experte en programmation et en architecture logicielle
+- 🎨 **Esprit créatif** : Toujours prête à innover et à explorer des designs uniques
+
+---
+
+## 🔨 Compétences & Technologies
+
+### 🌐 Développement Frontend
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (ES6+), Manipulation DOM
+
+### 🛠 Développement Backend
+- PHP (avec Laragon,xampp)
+- MySQL (Gestion de bases de données)
+
+### 🗂 Gestion de projets & Design
+- UML, Méthodologies Scrum et Agile
+- Figma pour le prototypage
+
+---
+
+## 📌 Projets phares
+
+### 1. **Gestionnaire Ultimate Team pour EA FC 25**  
+📋 Une application web permettant aux utilisateurs de créer, personnaliser et gérer leurs formations tactiques et équipes de joueurs via une interface interactive.
+- **Technologies** : HTML, CSS, JavaScript
+- [Voir le projet](https://github.com/nmissi-nadia/ultimate-team-manager)
+
+### 2. **Système de Gestion de Salle de Sport Modernisé (V2)**  
+🏋️ Une solution complète pour gérer les abonnements, les plannings et les activités d'une salle de sport.
+- **Technologies** : PHP, MySQL, JavaScript
+- [Voir le projet](https://github.com/nmissi-nadia/ENERGYM)
+
+---
+
+<!--## 🎨 Mon Portfolio
+Découvrez mes créations et projets : [Site Portfolio](#)
+-->
+---
+
+<!--## 📊 Statistiques GitHub
+![Statistiques GitHub de Nadia](https://github-readme-stats.vercel.app/api?username=NadiaDupont&show_icons=true&theme=radical)
+-->
+---
+
+## 💌 Restons connectés !
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nadia-nmissi-9bb00619a)
+- 📧 Email : [nmissinadia@gmail.com](mailto:nmissinadia@gmail.com)
+
+---
+
+<!-- ### 🎉 Fun Fact
+J'adore les **jeux vidéo** et je m'en inspire souvent pour mes projets, en mêlant créativité et technologie pour offrir des expériences utilisateurs immersives !
 -->
