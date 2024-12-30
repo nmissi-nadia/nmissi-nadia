@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Salut, je suis Nadia Dupont ! 👋
+## Salut, je suis Nadia NMISSI ! 👋
 
 Bienvenue sur mon profil GitHub ! Je suis une **Développeuse Full-Stack en formation chez YouCode**, toujours en quête de nouvelles idées créatives pour concevoir des applications web et mobiles intuitives. 🚀
 
