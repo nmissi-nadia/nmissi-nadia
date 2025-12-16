@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## Salut, je suis Nadia NMISSI ! 👋
 
@@ -46,7 +45,7 @@ Bienvenue sur mon profil GitHub ! Je suis une **Développeuse Full-Stack en form
 ---
 
 <!--## 🎨 Mon Portfolio
-Découvrez mes créations et projets : [Site Portfolio](#)
+Découvrez mes créations et projets : [Site Portfolio](https://nmissi-nadia.github.io/Portfolio_Nmissi_Nadia/vues/index.html)
 -->
 ---
 
@@ -56,7 +55,7 @@ Découvrez mes créations et projets : [Site Portfolio](#)
 ---
 
 ## 💌 Restons connectés !
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nadia-nmissi-9bb00619a)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nadia-nmissi)
 - 📧 Email : [nmissinadia@gmail.com](mailto:nmissinadia@gmail.com)
 
 ---
