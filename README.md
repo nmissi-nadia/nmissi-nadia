@@ -51,7 +51,7 @@ Découvrez mes créations et projets : [Site Portfolio](#)
 ---
 
 <!--## 📊 Statistiques GitHub
-![Statistiques GitHub de Nadia](https://github-readme-stats.vercel.app/api?username=NadiaDupont&show_icons=true&theme=radical)
+![Statistiques GitHub de Nadia](https://github-readme-stats.vercel.app/api?username=nmissi-nadia&show_icons=true&theme=radical)
 -->
 ---
 
